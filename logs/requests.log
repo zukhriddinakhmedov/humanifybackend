@@ -65934,3 +65934,295 @@
     }
   }
 }
+{
+  message: 'GET: \x1B[33m404\x1B[39m 3ms /',
+  level: 'info',
+  timestamp: '2023-05-12T20:42:59.357Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/',
+        headers: {
+          host: 'localhost:3044',
+          'upgrade-insecure-requests': '1',
+          accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15',
+          'accept-language': 'en-US,en;q=0.9',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 1ms /',
+  level: 'info',
+  timestamp: '2023-05-12T20:43:02.958Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/',
+        headers: {
+          host: 'localhost:3044',
+          'upgrade-insecure-requests': '1',
+          accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15',
+          'accept-language': 'en-US,en;q=0.9',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 1ms /users',
+  level: 'info',
+  timestamp: '2023-05-12T20:43:10.261Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users',
+        headers: {
+          host: 'localhost:3044',
+          'upgrade-insecure-requests': '1',
+          accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15',
+          'accept-language': 'en-US,en;q=0.9',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/users',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 10ms //all',
+  level: 'info',
+  timestamp: '2023-05-12T20:48:43.572Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '//all',
+        headers: {
+          host: 'localhost:3044',
+          'upgrade-insecure-requests': '1',
+          accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15',
+          'accept-language': 'en-US,en;q=0.9',
+          'accept-encoding': 'gzip, deflate',
+          connection: 'keep-alive'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '//all',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 10
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 2ms /users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:12:18.786Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/users/usernamecheck',
+        headers: {
+          'content-type': 'text/plain',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'c03493f3-f769-4e6b-9296-bd1eb7a21869',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '21'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 2
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 18ms /v1/users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:13:20.594Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/users/usernamecheck',
+        headers: {
+          'content-type': 'text/plain',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '0c96643f-87f6-459b-a302-d744b60b2b52',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '21'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 18
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 2ms /v1/users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:14:01.484Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/users/usernamecheck',
+        headers: {
+          'content-type': 'text/plain',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '0bf890d3-cac7-4323-aa8f-b213c119ed78',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '22'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 2
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 1ms /v1/users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:14:13.452Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/users/usernamecheck',
+        headers: {
+          'content-type': 'text/plain',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': 'b91ad409-d9ea-490a-b165-2b96162f7a29',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '24'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 1ms /v1/users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:14:20.202Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/users/usernamecheck',
+        headers: {
+          'content-type': 'text/plain',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '3e0edfe6-817f-418c-98ef-60e251c4ef3c',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '24'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 643ms /v1/users/usernamecheck',
+  level: 'info',
+  timestamp: '2023-05-12T21:14:42.302Z',
+  label: 'humanify',
+  metadata: {
+    meta: {
+      req: {
+        url: '/v1/users/usernamecheck',
+        headers: {
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.4',
+          accept: '*/*',
+          'cache-control': 'no-cache',
+          'postman-token': '1fc63206-eb2b-4ea7-bf29-cfd030743fea',
+          host: 'localhost:3044',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '24'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/v1/users/usernamecheck',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 643
+    }
+  }
+}

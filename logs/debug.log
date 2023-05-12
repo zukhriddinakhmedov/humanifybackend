@@ -47093,3 +47093,87 @@
   label: 'humanify',
   metadata: {}
 }
+{
+  message: 'DB: DATABASE URL: mongodb+srv://zuxrakhmedov:zyrPyW9Q0M3HCYbC@cluster0.fvsjs65.mongodb.net/',
+  level: 'info',
+  timestamp: '2023-05-12T20:42:35.082Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2023-05-12T20:42:35.089Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2023-05-12T20:42:35.092Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2023-05-12T20:42:37.294Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://zuxrakhmedov:zyrPyW9Q0M3HCYbC@cluster0.fvsjs65.mongodb.net/',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:35.313Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:35.321Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:35.322Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:36.570Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://zuxrakhmedov:zyrPyW9Q0M3HCYbC@cluster0.fvsjs65.mongodb.net/',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:41.976Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:41.981Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:41.981Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2023-05-12T21:17:43.076Z',
+  label: 'humanify',
+  metadata: {}
+}

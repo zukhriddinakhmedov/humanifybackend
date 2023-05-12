@@ -1,0 +1,166 @@
+{
+    "messages": {
+        "something_went_wrong!": {
+            "en": "Something went wrong!",
+            "ru": "Что-то пошло не так!",
+            "uz": "Nimadir noto'g'ri bajarildi!",
+            "kr": "Нимадир нотўғри бажарилди!"
+        },
+        "get_200": {
+            "en": "Data extracted successfully!",
+            "ru": "Данные извлечены успешно!",
+            "uz": "Ma'lumotlar muvaffaqiyatli chiqarildi!",
+            "kr": "Маълумотлар муваффақиятли чиқарилди!"
+        },
+        "sending_verification_code":{
+            "en": "Code was sent!",
+            "ru": "Koд был отправлен!",
+            "uz": "Kod yuborildi!",
+            "kr": "Код юборилди!"
+        },
+        "otp_200":{
+            "en": "Successfully!",
+            "ru": "Успешно!",
+            "uz": "Muvaffaqiyatli!",
+            "kr": "Муваффақиятли!"
+        },
+        "password_changed_200":{
+            "en": "Password updated successfully!",
+            "ru": "Пароль телефона успешно обновлен!",
+            "uz": "Parol muvaffaqiyatli yangilandi!",
+            "kr": "Парол муваффақиятли янгиланди!"
+        },
+        "admin_created_200": {
+            "en": "Admin successfully created!",
+            "ru": "Админ успешно создан!",
+            "uz": "Admin muvaffaqiyatli yaratildi!",
+            "kr": "Aдмин муваффақиятли яратилди!"
+        },
+        "admin_updated_200": {
+            "en": "Admin successfully updated!",
+            "ru": "Админ успешно обновлен!",
+            "uz": "Admin muvaffaqiyatli yangilandi!",
+            "kr": "Aдмин муваффақиятли янгиланди!"
+        },
+        "admin_delete_200": {
+            "en": "Admin successfully deleted!",
+            "ru": "Админ успешно удален!",
+            "uz": "Admin muvaffaqiyatli o'chirildi!",
+            "kr": "Aдмин муваффақиятли ўчирилди!"
+        },
+        "admin_logged_200": {
+            "en": "Admin successfully logged!",
+            "ru": "Админ успешно авторизовался!",
+            "uz": "Admin tizimga muvaffaqiyatli kirdi!",
+            "kr": "Aдмин тизимга муваффақиятли кирди!"
+        },
+        "username_exist": {
+            "en": "This user already exists!",
+            "ru": "Это пользователь уже существует! ",
+            "uz": "Bu foydalanuvchi allaqachon mavjud!",
+            "kr": "Бу фойдаланувчи аллақачон мавжуд!"
+        },
+        "user_created_200": {
+            "en": "User successfully created!",
+            "ru": "Пользователь успешно создан!",
+            "uz": "Foydalanuvchi muvaffaqiyatli yaratildi!",
+            "kr": "Фойдаланувчи муваффақиятли яратилди!"
+        },
+        "user_logged_200": {
+            "en": "User successfully logged!",
+            "ru": "Пользователь успешно авторизовался!",
+            "uz": "Foydalanuvchi tizimga muvaffaqiyatli kirdi!",
+            "kr": "Фойдаланувчи тизимга муваффақиятли кирди!"
+        },
+        "user_updated_200": {
+            "en": "User successfully updated!",
+            "ru": "Пользователь успешно обновлен!",
+            "uz": "Foydalanuvchi muvaffaqiyatli yangilandi!",
+            "kr": "Фойдаланувчи муваффақиятли янгиланди!"
+        },
+        "user_delete_204":{
+            "en": "User successfully deleted!",
+            "ru": "Пользователь успешно удален!",
+            "uz": "Foydalanuvchi muvaffaqiyatli o'chirildi!",
+            "kr": "Фойдаланувчи муваффақиятли ўчирилди!"
+        },
+        "interest_created_200": {
+            "en": "Interest successfully created!",
+            "ru": "Интерес успешно создан!",
+            "uz": "Qiziqish muvaffaqiyatli yaratildi!",
+            "kr": "Қизиқиш муваффақиятли яратилди!"
+        },
+        "interest_delete_200": {
+            "en": "Interest successfully deleted!",
+            "ru": "Интерес успешно удален!",
+            "uz": "Qiziqish muvaffaqiyatli o'chirildi!",
+            "kr": "Қизиқиш муваффақиятли ўчирилди!"
+        },
+        "post_created_200": {
+            "en": "Post successfully created!",
+            "ru": "Пост успешно создан!",
+            "uz": "Post muvaffaqiyatli yaratildi!",
+            "kr": "Пост муваффақиятли яратилди!"
+        },
+        "post_updated_200": {
+            "en": "Post successfully updated!",
+            "ru": "Пост успешно обновлен!",
+            "uz": "Post muvaffaqiyatli yangilandi!",
+            "kr": "Пост муваффақиятли янгиланди!"
+        },
+        "post_deleted_200": {
+            "en": "Post successfully deleted!",
+            "ru": "Пост успешно удален!",
+            "uz": "Post muvaffaqiyatli o'chirildi!",
+            "kr": "Пост муваффақиятли ўчирилди!"
+        },
+        "message_created_200": {
+            "en": "Message successfully created!",
+            "ru": "Сообщение было успешно добавлено!",
+            "uz": "Xabar muvaffaqiyatli qo'shildi!",
+            "kr": "Хабар муваффақиятли қўшилди!"
+        },
+        "message_updated_200": {
+            "en": "Message successfully updated!",
+            "ru": "Сообщение было успешно обновлено!",
+            "uz": "Xabar muvaffaqiyatli yangilandi!",
+            "kr": "Хабар муваффақиятли янгиланди!"
+        },
+        "message_delete_200": {
+            "en": "Message successfully deleted!",
+            "ru": "Сообщение успешно удален!",
+            "uz": "Xabar muvaffaqiyatli o'chirildi!",
+            "kr": "Хабар муваффақиятли ўчирилди!"
+        },
+        "fav_created_200": {
+            "en": "Favorite category successfully created!",
+            "ru": "Любимая категория успешно создана!",
+            "uz": "Sevimli kategoriya muvaffaqiyatli yaratildi!",
+            "kr": "Севимли категория муваффақиятли яратилди!"
+        },
+        "fav_updated_200": {
+            "en": "Favorite category successfully updated!",
+            "ru": "Любимая категория успешно обновлена!",
+            "uz": "Sevimli kategoriya muvaffaqiyatli yangilandi!",
+            "kr": "Севимли категория муваффақиятли янгиланди!"
+        },
+        "fav_post_added_200": {
+            "en": "Post successfully saved",
+            "ru": "Сообщение успешно сохранено!",
+            "uz": "Post muvaffaqiyatli saqlandi!",
+            "kr": "Пост муваффақиятли сақланди!"
+        },
+        "fav_post_deleted_200": {
+            "en": "Post successfully deleted from the saved!",
+            "ru": "Сообщение успешно удалено!",
+            "uz": "Post muvaffaqiyatli o'chirildi!",
+            "kr": "Пост муваффақиятли ўчирилди!!"
+        },
+        "post_already_in_the_list_400": {
+            "en": "This post already saved!",
+            "ru": "Этот пост уже сохранен!",
+            "uz": "Bu post allaqachon saqlangan!",
+            "kr": "Бу пост аллақачон сақланган!"
+        }
+    }
+}

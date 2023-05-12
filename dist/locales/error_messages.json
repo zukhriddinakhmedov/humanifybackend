@@ -1,0 +1,136 @@
+{
+    "error_messages": {
+        "auth_401": {
+            "en": "The current password is wrong!",
+            "ru": "Текущий пароль неверный!",
+            "uz": "Joriy parol noto'g'ri!",
+            "kr": "Жорий парол нотўғри!"
+        },
+        "auth_401.1": {
+            "en": "This account has been blocked!",
+            "ru": "Этот аккаунт заблокирован!",
+            "uz": "Bu hisob bloklangan!",
+            "kr": "Бу ҳисоб блокланган!"
+        },
+        "auth_401.2": {
+            "en": "Login or password is incorrect!",
+            "ru": "Логин или пароль неверный!",
+            "uz": "Login yoki parol noto'g'ri!",
+            "kr": "Логин ёки парол нотўғри!"
+        },
+        "old_password_401": {
+            "en": "The current password is required!",
+            "ru": "Требуется текущий пароль!",
+            "uz": "Joriy parol kiritilishi kerak!",
+            "kr": "Жорий парол киритилиши керак!"
+        },
+        "otp_404": {
+            "en": "Invalid code!",
+            "ru": "Неверный код!",
+            "uz": "Yaroqsiz kod!",
+            "kr": "Яроқсиз код!"
+        },
+        "auth_403": {
+            "en": "You are not authorized for this feature!",
+            "ru": "Вы не авторизованы для этой функции!",
+            "uz": "Bu funksiya uchun sizga ruxsat berilmagan!",
+            "kr": "Бу функсия учун сизга рухсат берилмаган!"
+        },
+        "auth_403.2": {
+            "en": "This user already exists!",
+            "ru": "Это пользователь уже существует!",
+            "uz": "Bu foydalanuvchi allaqachon mavjud!",
+            "kr": "Бу фойдаланувчи аллақачон мавжуд!"
+        },
+        "auth_403.3": {
+            "en": "Email or phone number is required!",
+            "ru": "Электронная почта или номер телефона обязательны!",
+            "uz": "Elektron pochta yoki telefon raqami kerak!",
+            "kr": "Електрон почта ёки телефон рақами керак!"
+        },
+        "admin_404": {
+            "en": "No such admin found!",
+            "ru": "Такой админ не найден!",
+            "uz": "Bunday admin topilmadi!",
+            "kr": "Бундай админ топилмади!"
+        },
+        "user_404": {
+            "en": "No such user found!",
+            "ru": "Такой пользователь не найден!",
+            "uz": "Bunday foydalanuvchi topilmadi!",
+            "kr": "Бундай фойдаланувчи топилмади!"
+        },
+        "influencer_404": {
+            "en": "No such influencer found!",
+            "ru": "Такой влиятельный человек не найден!",
+            "uz": "Bunday influenser topilmadi!",
+            "kr": "Бундай инфлуенcер топилмади!"
+        },
+        "interest_404": {
+            "en": "No such interest found!",
+            "ru": "Такой интересы не найден!",
+            "uz": "Bunday qiziqish topilmadi!",
+            "kr": "Бундай қизиқиш топилмади!"
+        },
+        "post_404": {
+            "en": "No such post found!",
+            "ru": "Такой пост не найден!",
+            "uz": "Bunday post topilmadi!",
+            "kr": "Бундай пост топилмади!"
+        },
+        "notification_404": {
+            "en": "No such notification found!",
+            "ru": "Такой уведомление не найден!",
+            "uz": "Bunday bildirishnoma topilmadi!",
+            "kr": "Бундай билдиришнома топилмади!"
+        },
+        "follow_404": {
+            "en": "No such follow found!",
+            "ru": "Такой следить не найден!",
+            "uz": "Bunday obuna topilmadi!",
+            "kr": "Бундай обуна топилмади!"
+        },
+        "no_title_401": {
+            "en": "Please enter title!",
+            "ru": "Пожалуйста, введите название!",
+            "uz": "Iltimos kategoriya nomini kiriting!",
+            "kr": "Илтимос категория номини киритинг!"
+        },
+        "no_post_404": {
+            "en": "Post with this ID not found!",
+            "ru": "Пост с этим идентификатором не найдено!",
+            "uz": "Bu IDga aloqador hech qanday post topilmadi!",
+            "kr": "Бу ID га алоқадор ҳеч қандай пост топилмади!"
+        },
+        "duplicate_category_401": {
+            "en": "Category with this title already exists!",
+            "ru": "Категория с таким названием уже существует!",
+            "uz": "Ushbu nomdagi kategoriyangiz allaqachon bor!",
+            "kr": "Ушбу номдаги категориянгиз аллақачон бор!"
+        },
+        "like_404": {
+            "en": "No such like found!",
+            "ru": "Такой лике не найден!",
+            "uz": "Bunday like topilmadi!",
+            "kr": "Бундай лике топилмади!"
+        },
+        "comment_404": {
+            "en": "No such comment found!",
+            "ru": "Такой коммнет не найден!",
+            "uz": "Bunday izoh topilmadi!",
+            "kr": "Бундай изоҳ топилмади!"
+        },
+        "report_404": {
+            "en": "No such report found!",
+            "ru": "Такой жалоба не найден!",
+            "uz": "Bunday shikoyat topilmadi!",
+            "kr": "Бундай шикоят топилмади!"
+        },
+        "conversation_404": {
+            "en": "No such conversation found!",
+            "ru": "Такой беседа не найден!",
+            "uz": "Bunday suhbat topilmadi!",
+            "kr": "Бундай суҳбат топилмади!"
+        }
+    }
+}

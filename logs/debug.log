@@ -46778,3 +46778,66 @@
   label: 'humanify',
   metadata: {}
 }
+{
+  message: 'DB: DATABASE URL: mongodb+srv://humanifyv1:200013fev.@cluster0.hszrnmm.mongodb.net/?retryWrites=true&w=majority',
+  level: 'info',
+  timestamp: '2023-05-12T18:22:50.505Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2023-05-12T18:22:50.510Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2023-05-12T18:22:50.511Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: MongoDB Connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+  level: 'error',
+  timestamp: '2023-05-12T18:22:50.594Z',
+  label: 'humanify',
+  metadata: {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+    stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
+  }
+}
+{
+  message: 'DB: DATABASE URL: mongodb+srv://zuxrakhmedov:kvLLM3wLmafu2K9j@cluster0.fvsjs65.mongodb.net/',
+  level: 'info',
+  timestamp: '2023-05-12T18:26:13.845Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2023-05-12T18:26:13.849Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3044',
+  level: 'info',
+  timestamp: '2023-05-12T18:26:13.850Z',
+  label: 'humanify',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2023-05-12T18:26:23.208Z',
+  label: 'humanify',
+  metadata: {}
+}

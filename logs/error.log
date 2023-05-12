@@ -14144,3 +14144,59 @@
       '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
   }
 }
+{
+  message: 'DB: MongoDB Connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+  level: 'error',
+  timestamp: '2023-05-12T20:29:59.688Z',
+  label: 'humanify',
+  metadata: {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+    stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
+  }
+}
+{
+  message: 'DB: MongoDB Connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+  level: 'error',
+  timestamp: '2023-05-12T20:30:57.287Z',
+  label: 'humanify',
+  metadata: {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+    stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
+  }
+}
+{
+  message: 'DB: MongoDB Connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+  level: 'error',
+  timestamp: '2023-05-12T20:33:47.932Z',
+  label: 'humanify',
+  metadata: {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+    stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
+  }
+}
+{
+  message: 'DB: MongoDB Connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+  level: 'error',
+  timestamp: '2023-05-12T20:34:22.199Z',
+  label: 'humanify',
+  metadata: {
+    errno: undefined,
+    code: 'ENOTFOUND',
+    syscall: 'querySrv',
+    hostname: '_mongodb._tcp.cluster0.hszrnmm.mongodb.net',
+    stack: 'Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.hszrnmm.mongodb.net\n' +
+      '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:47:19)'
+  }
+}
